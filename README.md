@@ -10,8 +10,6 @@
    Olá 👋, eu sou Evilazio Neto! Técnico em Informática pelo Instituto Federal de Sergipe e atualmente estudante de Desenvolvimento Frontend.
 
   - 🌱 Focado em aprender e aprimorar minhas habilidades em Frontend, sempre buscando evoluir
-  - 🚀 Tecnologias que utilizo: React, TypeScript, Tailwind CSS, Firebase, Bootstrap, Shadcn/ui
-  - 🔧 Ferramentas que uso no dia a dia: VS Code, Git, Insomnia
   - 🎯 Meu objetivo é criar interfaces intuitivas e funcionais, sempre explorando novas tecnologias para entregar a melhor experiência ao usuário.
 </p>
 

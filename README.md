@@ -1,7 +1,7 @@
 <!-- Título -->
 <div id="user-content-toc">
   <ul align="center">
-    <h1 style="text-align: center;">Sobre Mim</h1>
+    <h1 style="text-align: left;">Sobre Mim</h1>
   </ul>
 </div>
 

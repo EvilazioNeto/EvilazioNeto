@@ -1,8 +1,6 @@
 <!-- Título -->
 <div id="user-content-toc">
-  <ul align="center">
-    <h1 style="text-align: left;">Sobre Mim</h1>
-  </ul>
+    <h1>Sobre Mim</h1>
 </div>
 
 <!-- Apresentação -->

@@ -5,10 +5,7 @@
 
 <!-- Apresentação -->
 <p>
-   Olá 👋, eu sou Evilazio Neto! Técnico em Informática pelo Instituto Federal de Sergipe e atualmente estudante de Desenvolvimento Frontend.
-
-  - 🌱 Focado em aprender e aprimorar minhas habilidades em Frontend, sempre buscando evoluir
-  - 🎯 Meu objetivo é criar interfaces intuitivas e funcionais, sempre explorando novas tecnologias para entregar a melhor experiência ao usuário.
+   Olá 👋, eu sou Evilazio! Técnico em Informática pelo Instituto Federal de Sergipe e atualmente cursando licenciatura em física.
 </p>
 
 <!-- Links -->

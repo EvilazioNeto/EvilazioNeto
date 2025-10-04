@@ -12,9 +12,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_evilazioneto/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evilazio-da-silva-neto-176259307/)
 
-<!-- GithubStats -->
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=EvilazioNeto&show_icons=true&theme=gotham)
-
 <!-- Portfólio -->
 ## Portfólio:
 - [Frontend - Champions Gaming](https://github.com/EvilazioNeto/championsgaming-react)

@@ -5,7 +5,7 @@
 
 <!-- Apresentação -->
 <p>
-   Olá 👋, eu sou Evilazio! Técnico em Informática pelo Instituto Federal de Sergipe e atualmente cursando licenciatura em física.
+   Técnico em Informática pelo Instituto Federal de Sergipe e atualmente cursando licenciatura em física.
 </p>
 
 <!-- Links -->
